@@ -1,0 +1,13 @@
+### Eclipse
+.settings/
+.classpath
+.project
+
+### Maven ###
+**/test-output
+/target
+
+# Package Files #
+*.jar
+*.war
+*.ear
