@@ -6,6 +6,9 @@
 ### Maven ###
 **/test-output
 /target
+**/screenshots/*
+/reports
+**.log
 
 # Package Files #
 *.jar
